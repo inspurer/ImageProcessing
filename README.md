@@ -1,2 +1,7 @@
 # ImageProcessing
-中南大学图像处理实验 via 通信渣渣涛
+
+代码详细解释，请扫二维码：
+
+<p align="center">
+  <img src="gitchat.jpg"></a>
+</p>
